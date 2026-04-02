@@ -14,6 +14,11 @@
 > *"An immersive 3D universe where every project is a star — explore my work by navigating through an interactive constellation."*
 
 <br/>
+<img width="1792" height="1120" alt="Screenshot 2026-04-02 at 5 11 37 PM" src="https://github.com/user-attachments/assets/36c47d47-8963-4e97-b3ff-ca9cb158247b" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-02 at 5 12 02 PM" src="https://github.com/user-attachments/assets/887fdf36-230b-4627-8ad9-6ea65da73456" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-02 at 5 11 07 PM" src="https://github.com/user-attachments/assets/8a52dc18-a119-4cf8-9a64-f72bf66961c8" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-02 at 5 11 25 PM" src="https://github.com/user-attachments/assets/79e47d77-1777-4ba5-8223-c92318d37223" />
+<img width="1792" height="1120" alt="Screenshot 2026-04-02 at 5 12 33 PM" src="https://github.com/user-attachments/assets/0e5e1117-be7f-4900-94cc-dde2e3819579" />
 
 ![Next.js](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
