@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --background: #050a15;
+  --foreground: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #050a15;
+    --foreground: #ffffff;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  /* Smooth scrolling will be handled by GSAP, keeping overflow hidden on Y if we go full canvas,
+     but we'll allow standard overflow for now until Canvas takes over */
+}
+
+/* Base utility for hiding scrollbar if needed */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
